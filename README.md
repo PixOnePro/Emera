@@ -8,7 +8,7 @@ Emera is an open source AI combined with a discord bot. It's designed to be one 
   2. Open the file in the main folder named 'intents.json' using your favorite .json editor (e.g. VSCode)
   3. Scroll to the last tag in the list and add your own tag after it, ensuring that your tag doesn't match any others
   
-  **Example Tag**
+  **Example Tag:**
   ```
   ,
   {"tag": "exampletag",
