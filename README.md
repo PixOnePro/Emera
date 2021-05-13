@@ -2,7 +2,7 @@
 
 Emera is an open source AI combined with a discord bot. It's designed to be one of the few open-source AI Assistants out there.
 
-The discord invite link for the current bot can be found here: (Emera Link)[https://discord.com/api/oauth2/authorize?client_id=842063913905422337&permissions=11264&scope=bot] or, you can use your own discord bot following the instructions below.
+The discord invite link for the current bot can be found here: [Emera Link](https://discord.com/api/oauth2/authorize?client_id=842063913905422337&permissions=11264&scope=bot) or, you can use your own discord bot following the instructions below.
 
 ## How to run Emera
 
