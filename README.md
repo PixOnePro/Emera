@@ -6,11 +6,18 @@ The discord invite link for the current bot can be found here: [Emera Link](http
 
 ## How to run Emera
 
+  **You will need:**
+  * A Copy of the Emera source code
+  * A Wolfram Account with an API key
+  * A Discord bot and matching token
+  * Some patience
+
   1. Download the project with Git or by using the GitHub download as `.zip` button
   2. Run `train_emera.py` (Warning: This may take a few minutes)
-  3. Open `emera.py` and scroll to the bottom
-  4. Paste your Discord Bot token into the `client.run("YOUR_TOKEN")` field, replacing `YOUR_TOKEN` with your token
-  5. Run `emera.py` and try out the discord bot!
+  3. Open `emera.py`
+  4. Paste your Discord Bot Token into the `client.run("DISCORD_CLIENT_TOKEN")` field at the bot, replacing `DISCORD_CLIENT_TOKEN` with your Discord Bot Token
+  5. Paste your Wolfram API key into the `wclient = wolframalpha.Client("WOLFRAM_API_KEY")` field near the top, replacing `WOLFRAM_API_KEY` with your Wolfram API Key
+  6. Run `emera.py` and try out the discord bot!
 
 ## How add vocabulary to Emera
 
